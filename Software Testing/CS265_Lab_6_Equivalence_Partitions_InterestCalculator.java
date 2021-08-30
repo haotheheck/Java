@@ -35,7 +35,7 @@ public class cs265ca {
         }
 
         public static void main(String[] arg){
-                        System.out.println(" € "+discount+" is " +Percentage(discount));
+                        System.out.println(" â‚¬ "+discount+" is " +Percentage(discount));
                         
         }
 
