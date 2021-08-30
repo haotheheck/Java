@@ -38,13 +38,13 @@ public class CS265_Lab_W05 {
 	 * 
 	 * Travelers can bring a maximum of two pieces of equipment --- a maximum of one piece of sports 
 	 * equipment and a maximum of one piece of musical equipment.
-	 * The standard cost for one piece of equipment --- either sports or music equipment --- is €10 each. This 
-	 * means, if they only bring one piece of equipment, the standard price of the insurance is €10; if they bring 
-	 * two, the standard price is €20.
-	 * If they bring no equipment, then standard insurance fee is 5€, but Business and First Class Travelers 
-	 * do not need to pay for this. Both Business and First Class Travelers pay €0 in that case.
+	 * The standard cost for one piece of equipment --- either sports or music equipment --- is â‚¬10 each. This 
+	 * means, if they only bring one piece of equipment, the standard price of the insurance is â‚¬10; if they bring 
+	 * two, the standard price is â‚¬20.
+	 * If they bring no equipment, then standard insurance fee is 5â‚¬, but Business and First Class Travelers 
+	 * do not need to pay for this. Both Business and First Class Travelers pay â‚¬0 in that case.
 	 * Business Travelers get 50% discount on the total amount if they have any equipment.
-	 * First Class Travelers have their insurance included. They always pay €0 regardless if they have 
+	 * First Class Travelers have their insurance included. They always pay â‚¬0 regardless if they have 
 	 * nothing, or any combination of equipment. 
 	 * 
 	 * @param sportsEquipment True if the traveler brings one piece of sports equipment
